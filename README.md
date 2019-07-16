@@ -63,7 +63,7 @@
 
 <!-- Objetivo -->
 ## Objetivo
-Este repositório foi criado com a finalidade de guardar meus projetos, ideias, anotações, exercícios e programas pessoais feitos em <strong>Haskell</strong>.
+Este repositório foi criado com a finalidade de guardar meus projetos, ideias, anotações, exercícios e programas pessoais feitos em <strong>Ruby</strong>.
 <!-- -->
 
 <!-- Material Utilizado -->
