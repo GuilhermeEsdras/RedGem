@@ -68,7 +68,7 @@ Este repositório foi criado com a finalidade de guardar meus projetos, ideias, 
 
 <!-- Material Utilizado -->
 ## Material Utilizado
-Estes são os materiais usados por mim para desenvolver e rodar meus programas em Haskell.
+Estes são os materiais usados por mim para desenvolver e rodar meus programas em Ruby.
 ### Sistema Operacional
 - [Windows 10](https://www.microsoft.com/pt-br/windows/)
 ### Interpretador
