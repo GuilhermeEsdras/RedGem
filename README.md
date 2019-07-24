@@ -45,20 +45,20 @@
 
 <!-- Table of Contents -->
 ## Glossário
-- [RedGem Projs](#RedGem-Projs)
-  - [Glossário](#Gloss%C3%A1rio)
-  - [Objetivo](#Objetivo)
-  - [Material Utilizado](#Material-Utilizado)
-    - [Sistema Operacional](#Sistema-Operacional)
-    - [Interpretador](#Interpretador)
-    - [IDE](#IDE)
-  - [Programando em Ruby](#Programando-em-Ruby)
-    - [Pré-Requisitos](#Pr%C3%A9-Requisitos)
-    - [Executando .rb pelo CMD](#Executando-rb-pelo-CMD)
-    - [Exemplo de Hello World](#Exemplo-de-Hello-World)
-  - [Links Úteis](#Links-%C3%9Ateis)
-  - [Autor](#Autor)
-  - [Licença](#Licen%C3%A7a)
+- [RedGem Projs](#redgem-projs)
+  - [Glossário](#gloss%c3%a1rio)
+  - [Objetivo](#objetivo)
+  - [Material Utilizado](#material-utilizado)
+    - [Sistema Operacional](#sistema-operacional)
+    - [Interpretador](#interpretador)
+    - [IDE](#ide)
+  - [Programando em Ruby](#programando-em-ruby)
+    - [Pré-Requisitos](#pr%c3%a9-requisitos)
+    - [Executando .rb pelo CMD](#executando-rb-pelo-cmd)
+    - [Exemplo de Hello World](#exemplo-de-hello-world)
+  - [Links Úteis](#links-%c3%9ateis)
+  - [Autor](#autor)
+  - [Licença](#licen%c3%a7a)
 <!-- -->
 
 <!-- Objetivo -->
@@ -77,6 +77,7 @@ Estes são os materiais usados por mim para desenvolver e rodar meus programas e
 - [Visual Studio Code](https://code.visualstudio.com/)
   - Com a extensão: <br/>
     [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
+- [RubyMine by JetBrains](https://www.jetbrains.com/ruby/)
 <!-- -->
 
 <!-- Programando em ... -->
